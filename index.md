@@ -7,5 +7,5 @@ Get started by reading [[README]]#.
 Other pages on this zettelkasten:
 
 - [[faq]]#
-- [[Classe dirigente alienada - Mosca]]
+- [[Classe dirigente alienada - Mosca]]#
 - [[Minorias organizadas - Mosca]]
